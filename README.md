@@ -44,12 +44,36 @@
 🚀 Fast learner, always exploring new tools and taking on new technical challenges
 
 🌍 Languages I Speak
-Language	Level
-<img src="https://flagcdn.com/32x24/de.png" />	German	B1
-<img src="https://flagcdn.com/32x24/fr.png" />	French	B1
-<img src="https://flagcdn.com/32x24/gb.png" />	English	B2
-<img src="https://flagcdn.com/32x24/es.png" />	Spanish	Native
-<img src="https://flagcdn.com/32x24/it.png" />	Italian	A2
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://flagcdn.com/32x24/de.png" />
+
+<img src="https://img.shields.io/badge/GERMAN-B1-1A1A2E?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://flagcdn.com/32x24/fr.png" />
+
+<img src="https://img.shields.io/badge/FRENCH-B1-1A1A2E?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://flagcdn.com/32x24/gb.png" />
+
+<img src="https://img.shields.io/badge/ENGLISH-B2-1A1A2E?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://flagcdn.com/32x24/es.png" />
+
+<img src="https://img.shields.io/badge/SPANISH-NATIVE-1A1A2E?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://flagcdn.com/32x24/it.png" />
+
+<img src="https://img.shields.io/badge/ITALIAN-A2-1A1A2E?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
 🛠 Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
