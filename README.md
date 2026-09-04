@@ -1,19 +1,12 @@
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Hi%20👋%20I'm%20JheanSan&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38" />
-<source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=220&section=header&text=Hi%20👋%20I'm%20JheanSan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=220&section=header&text=Hi%20👋%20I'm%20JheanSan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=220&section=header&text=Hi%20👋%20I'm%20JheanSan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner" width="100%" />
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E94560&background=00000000&center=true&vCenter=true&width=650&lines=Systems+%26+Game+Developer;C%23+%2F+Unity+%2F+OOP+%2F+Power+BI;Building+ShrineOfTheGods+%F0%9F%8E%AE;Polyglot+%F0%9F%8C%8D+DE+%7C+FR+%7C+EN+%7C+ES+%7C+IT" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&background=00000000&center=true&vCenter=true&width=650&lines=Systems+%26+Game+Developer;C%23+%2F+Unity+%2F+OOP+%2F+Power+BI;Building+ShrineOfTheGods+%F0%9F%8E%AE;Polyglot+%F0%9F%8C%8D+DE+%7C+FR+%7C+EN+%7C+ES+%7C+IT" alt="Typing SVG" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=650&height=50&lines=Systems+%26+Game+Developer;C%23+%2F+Unity+%2F+OOP+%2F+Power+BI;Building+ShrineOfTheGods+%F0%9F%8E%AE;Polyglot+%F0%9F%8C%8D+DE+%7C+FR+%7C+EN+%7C+ES+%7C+IT" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JheanSan&label=Profile%20Views&color=2563EB&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/JheanSan?label=Followers&style=for-the-badge&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=JheanSan&label=Profile%20Views&color=B91D73&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/JheanSan?label=Followers&style=for-the-badge&color=B91D73" />
 </p>
 
 <p align="center">
@@ -29,25 +22,25 @@
 </p>
 
 🧭 About Me
-🎮 Building ShrineOfTheGods, a C# / Unity project built around object-oriented programming principles (modular components, inheritance-based enemy/item systems) — looking to expand this universe
+🎮 Building ShrineOfTheGods, a C# / Unity project designed around object-oriented programming principles — modular, inheritance-based systems for enemies, items, and interactions
 
-🏆 ShrineOfTheGods was selected to be showcased at my university's engineering exhibition (add exhibition name, e.g. "Feria de Ingeniería 2026, Universidad de San Buenaventura")
+🏆 ShrineOfTheGods was selected to be showcased at my university's engineering exhibition, presented alongside other student projects to faculty and peers
 
-🌱 Growing digitalgarden, my personal knowledge base (SCSS/Markdown)
+🌱 Growing digitalgarden, my personal knowledge base built with SCSS and Markdown
 
-📊 Working with Power BI for data visualization and reporting — add a short line about a dashboard/project you built
+📊 Working with Power BI to build dashboards and reports for data visualization and analysis
 
-💻 Interested in game dev, full-stack web, AI, Big Data, and systems engineering
+💻 Interested in game development, full-stack web, AI, Big Data, and systems engineering
 
 🚀 Fast learner, always exploring new tools and taking on new technical challenges
 
 🌍 Languages I Speak
 <p align="center">
-<img src="https://img.shields.io/badge/🇩🇪_GERMAN-B1-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇫🇷_FRENCH-B1-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-B2-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇪🇸_SPANISH-NATIVE-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇮🇹_ITALIAN-A2-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇩🇪_GERMAN-B1-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇫🇷_FRENCH-B1-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-B2-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇪🇸_SPANISH-NATIVE-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🇮🇹_ITALIAN-A2-1A1A2E?style=for-the-badge" />
 </p>
 
 🛠 Tech Stack
@@ -63,39 +56,23 @@
 
 📌 Featured Projects
 ShrineOfTheGods
-First project ever built in Unity, using object-oriented design patterns. Selected for display at my university's engineering exhibition. Add gameplay/mechanic description here.
+My first project built in Unity, structured around object-oriented design patterns. Selected for display at my university's engineering exhibition.
 
 digitalgarden
 My personal knowledge base — notes and ideas organized as a browsable wiki.
 
 📊 GitHub Stats
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JheanSan&show_icons=true&theme=radical&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JheanSan&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JheanSan&show_icons=true&theme=default&hide_border=true" />
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JheanSan&theme=radical&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JheanSan&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JheanSan&theme=default&hide_border=true" />
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JheanSan&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JheanSan&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JheanSan&layout=compact&theme=radical&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JheanSan&layout=compact&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JheanSan&layout=compact&theme=default&hide_border=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JheanSan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JheanSan&theme=radical&no-frame=true&row=1&column=6" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JheanSan&theme=flat&no-frame=true&row=1&column=6" />
-<img src="https://github-profile-trophy.vercel.app/?username=JheanSan&theme=flat&no-frame=true&row=1&column=6" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=JheanSan&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 🐍 Contribution Snake
@@ -107,12 +84,7 @@ My personal knowledge base — notes and ideas organized as a browsable wiki.
 
 🌐 Connect
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:jeanmarcosanchezca2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
-<source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=100&section=footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=100&section=footer" alt="footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91D73,100:F953C6&height=100&section=footer" alt="footer" width="100%" />
