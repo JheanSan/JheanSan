@@ -21,7 +21,7 @@
 
 📍 Based in: Bogotá D.C, Colombia
 
-📫 Reach me: add email or LinkedIn
+📫 Contact: jeanmarcosanchezca2@gmail.com
 
 🌍 Languages I Speak
 <p align="left">
