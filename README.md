@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=180&section=header" alt="header banner" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=100&section=header" alt="header banner" width="100%" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=650&height=50&lines=Systems+%26+Game+Developer;C%23+%2F+Unity+%2F+OOP+%2F+Power+BI;Building+ShrineOfTheGods+%F0%9F%8E%AE;Polyglot+%F0%9F%8C%8D+DE+%7C+FR+%7C+EN+%7C+ES+%7C+IT" alt="Typing SVG" />
@@ -18,6 +19,11 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-LOVER-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/SELF--TAUGHT-DEVELOPER-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
+<p align="center">
 📍 Bogotá, Colombia · 🎓 Systems Engineering Student · 📧 <a href="mailto:jeanmarcosanchezca2@gmail.com">jeanmarcosanchezca2@gmail.com</a>
 </p>
 
@@ -32,19 +38,23 @@
 
 💻 Interested in game development, full-stack web, AI, Big Data, and systems engineering
 
+📖 Self-taught in most of my stack — I learn by building real projects, not just courses
+
+💚 Open source lover — I believe in learning from and giving back to the community that gave me my start
+
 🚀 Fast learner, always exploring new tools and taking on new technical challenges
 
 🌍 Languages I Speak
 <p align="center">
 <img src="https://flagcdn.com/32x24/de.png" /> <img src="https://img.shields.io/badge/GERMAN-B1-1A1A2E?style=for-the-badge" />
-  
+  
 <img src="https://flagcdn.com/32x24/fr.png" /> <img src="https://img.shields.io/badge/FRENCH-B1-1A1A2E?style=for-the-badge" />
-  
+  
 <img src="https://flagcdn.com/32x24/gb.png" /> <img src="https://img.shields.io/badge/ENGLISH-B2-1A1A2E?style=for-the-badge" />
 </p>
 <p align="center">
 <img src="https://flagcdn.com/32x24/es.png" /> <img src="https://img.shields.io/badge/SPANISH-NATIVE-1A1A2E?style=for-the-badge" />
-  
+  
 <img src="https://flagcdn.com/32x24/it.png" /> <img src="https://img.shields.io/badge/ITALIAN-A2-1A1A2E?style=for-the-badge" />
 </p>
 
@@ -77,6 +87,21 @@ My personal knowledge base — notes and ideas organized as a browsable wiki.
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JheanSan/JheanSan/output/github-snake.svg" />
 <img alt="github contribution snake" src="https://raw.githubusercontent.com/JheanSan/JheanSan/output/github-snake.svg" />
 </picture>
+
+🕹️ Retro Corner
+<p align="center">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Under%20construction%20animated.gif" alt="under construction" />
+</p>
+
+<p align="center">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icon-designed%20using%20notepad.png" alt="made with notepad" />
+ 
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/CC0%20button.svg" alt="open source" width="88" height="31" />
+ 
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Get%20free%207-Zip%2088x31.gif" alt="7zip" />
+</p>
+
+<p align="center"><i>this profile is best viewed with curiosity, an open mind, and a decent internet connection 💾</i></p>
 
 🌐 Connect
 <p align="center">
