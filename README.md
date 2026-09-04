@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=100&section=header" alt="header banner" width="100%" />
 
 <p align="center">
@@ -45,19 +44,12 @@
 🚀 Fast learner, always exploring new tools and taking on new technical challenges
 
 🌍 Languages I Speak
-<p align="center">
-<img src="https://flagcdn.com/32x24/de.png" /> <img src="https://img.shields.io/badge/GERMAN-B1-1A1A2E?style=for-the-badge" />
-  
-<img src="https://flagcdn.com/32x24/fr.png" /> <img src="https://img.shields.io/badge/FRENCH-B1-1A1A2E?style=for-the-badge" />
-  
-<img src="https://flagcdn.com/32x24/gb.png" /> <img src="https://img.shields.io/badge/ENGLISH-B2-1A1A2E?style=for-the-badge" />
-</p>
-<p align="center">
-<img src="https://flagcdn.com/32x24/es.png" /> <img src="https://img.shields.io/badge/SPANISH-NATIVE-1A1A2E?style=for-the-badge" />
-  
-<img src="https://flagcdn.com/32x24/it.png" /> <img src="https://img.shields.io/badge/ITALIAN-A2-1A1A2E?style=for-the-badge" />
-</p>
-
+Language	Level
+<img src="https://flagcdn.com/32x24/de.png" />	German	B1
+<img src="https://flagcdn.com/32x24/fr.png" />	French	B1
+<img src="https://flagcdn.com/32x24/gb.png" />	English	B2
+<img src="https://flagcdn.com/32x24/es.png" />	Spanish	Native
+<img src="https://flagcdn.com/32x24/it.png" />	Italian	A2
 🛠 Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -90,15 +82,14 @@ My personal knowledge base — notes and ideas organized as a browsable wiki.
 
 🕹️ Retro Corner
 <p align="center">
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Under%20construction%20animated.gif" alt="under construction" />
+<img src="https://img.shields.io/badge/⚠️_UNDER-CONSTRUCTION-FFD700?style=plastic&labelColor=000000" />
+<img src="https://img.shields.io/badge/BEST%20VIEWED%20WITH-CURIOSITY-00FFFF?style=plastic&labelColor=000000" />
 </p>
 
 <p align="center">
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Icon-designed%20using%20notepad.png" alt="made with notepad" />
- 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/CC0%20button.svg" alt="open source" width="88" height="31" />
- 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Get%20free%207-Zip%2088x31.gif" alt="7zip" />
+<img src="https://img.shields.io/badge/MADE%20WITH-%E2%9D%A4%EF%B8%8F%20%2B%20COFFEE-FF69B4?style=plastic&labelColor=000000" />
+<img src="https://img.shields.io/badge/POWERED%20BY-OPEN%20SOURCE-00FF00?style=plastic&labelColor=000000" />
+<img src="https://img.shields.io/badge/100%25-SELF%20TAUGHT-FFA500?style=plastic&labelColor=000000" />
 </p>
 
 <p align="center"><i>this profile is best viewed with curiosity, an open mind, and a decent internet connection 💾</i></p>
