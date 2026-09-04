@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=220&section=header&text=Hi%20👋%20I'm%20JheanSan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=180&section=header" alt="header banner" width="100%" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1A1A2EFF&center=true&vCenter=true&width=650&height=50&lines=Systems+%26+Game+Developer;C%23+%2F+Unity+%2F+OOP+%2F+Power+BI;Building+ShrineOfTheGods+%F0%9F%8E%AE;Polyglot+%F0%9F%8C%8D+DE+%7C+FR+%7C+EN+%7C+ES+%7C+IT" alt="Typing SVG" />
@@ -36,11 +36,16 @@
 
 🌍 Languages I Speak
 <p align="center">
-<img src="https://img.shields.io/badge/🇩🇪_GERMAN-B1-1A1A2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇫🇷_FRENCH-B1-1A1A2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇬🇧_ENGLISH-B2-1A1A2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇪🇸_SPANISH-NATIVE-1A1A2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇮🇹_ITALIAN-A2-1A1A2E?style=for-the-badge" />
+<img src="https://flagcdn.com/32x24/de.png" /> <img src="https://img.shields.io/badge/GERMAN-B1-1A1A2E?style=for-the-badge" />
+  
+<img src="https://flagcdn.com/32x24/fr.png" /> <img src="https://img.shields.io/badge/FRENCH-B1-1A1A2E?style=for-the-badge" />
+  
+<img src="https://flagcdn.com/32x24/gb.png" /> <img src="https://img.shields.io/badge/ENGLISH-B2-1A1A2E?style=for-the-badge" />
+</p>
+<p align="center">
+<img src="https://flagcdn.com/32x24/es.png" /> <img src="https://img.shields.io/badge/SPANISH-NATIVE-1A1A2E?style=for-the-badge" />
+  
+<img src="https://flagcdn.com/32x24/it.png" /> <img src="https://img.shields.io/badge/ITALIAN-A2-1A1A2E?style=for-the-badge" />
 </p>
 
 🛠 Tech Stack
@@ -63,16 +68,7 @@ My personal knowledge base — notes and ideas organized as a browsable wiki.
 
 📊 GitHub Stats
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JheanSan&show_icons=true&theme=radical&hide_border=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JheanSan&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JheanSan&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JheanSan&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 🐍 Contribution Snake
