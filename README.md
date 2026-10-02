@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:B91D73&height=170&section=header&text=JheanSan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Systems%20Engineering%20Student%20%C2%B7%20Game%20%26%20Software%20Developer&descSize=16&descAlignY=58" width="100%" alt="JheanSan, Systems Engineering Student, Game and Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:B91D73&height=110&section=header" width="100%" alt="" />
+
+<h1 align="center">JheanSan</h1>
+<p align="center"><b>Systems Engineering Student · Game &amp; Software Developer</b></p>
 
 <p align="center">
   Bogotá, Colombia &nbsp;·&nbsp; <a href="mailto:jeanmarcosanchezca2@gmail.com">jeanmarcosanchezca2@gmail.com</a>
@@ -13,7 +16,6 @@ projects rather than courses, and I enjoy picking up new tools and taking on pro
   principles, with modular, inheritance-based systems for enemies, items and interactions. It was selected
   for my university's engineering exhibition and presented to faculty and peers.
 - **Data:** building Power BI dashboards and reports for data visualization and analysis.
-- **Knowledge base:** growing *digitalgarden*, a personal wiki built with SCSS and Markdown.
 - **Interests:** game development, full-stack web, AI, big data and systems engineering.
 - **Open source:** I learned from the community that gave me my start, and I try to give back to it.
 
@@ -21,9 +23,8 @@ projects rather than courses, and I enjoy picking up new tools and taking on pro
 
 | Project | What it is | Built with |
 |---|---|---|
-| **ShrineOfTheGods** | My first Unity game, structured around object-oriented design patterns. Shown at my university's engineering exhibition. | C#, Unity |
+| **[ShrineOfTheGods](https://github.com/JheanSan/ShrineOfTheGods)** | My first Unity game, structured around object-oriented design patterns. Shown at my university's engineering exhibition. | C#, Unity |
 | **[Linkle Companion](https://github.com/JheanSan/linkle-companion)** | An open-source Minecraft mod that adds a dual-crossbow companion who follows you, fights beside you and talks to you. | Java, Fabric |
-| **digitalgarden** | My personal knowledge base: notes and ideas organized as a browsable wiki. | SCSS, Markdown |
 
 ### Tech stack
 
@@ -40,9 +41,30 @@ projects rather than courses, and I enjoy picking up new tools and taking on pro
 
 ### Languages
 
-| Spanish | English | German | French | Italian |
-|:---:|:---:|:---:|:---:|:---:|
-| Native | B2 | B1 | B1 | A2 |
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/es.png" alt="Spanish" /><br/><br/>
+      <img src="https://img.shields.io/badge/SPANISH-NATIVE-B91D73?style=for-the-badge&labelColor=1A1A2E" alt="Spanish NATIVE" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/gb.png" alt="English" /><br/><br/>
+      <img src="https://img.shields.io/badge/ENGLISH-B2-B91D73?style=for-the-badge&labelColor=1A1A2E" alt="English B2" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/de.png" alt="German" /><br/><br/>
+      <img src="https://img.shields.io/badge/GERMAN-B1-B91D73?style=for-the-badge&labelColor=1A1A2E" alt="German B1" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/fr.png" alt="French" /><br/><br/>
+      <img src="https://img.shields.io/badge/FRENCH-B1-B91D73?style=for-the-badge&labelColor=1A1A2E" alt="French B1" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://flagcdn.com/48x36/it.png" alt="Italian" /><br/><br/>
+      <img src="https://img.shields.io/badge/ITALIAN-A2-B91D73?style=for-the-badge&labelColor=1A1A2E" alt="Italian A2" />
+    </td>
+  </tr>
+</table>
 
 ### Activity
 
