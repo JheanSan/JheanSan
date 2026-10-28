@@ -4,7 +4,7 @@
 <p align="center"><b>Systems Engineering Student · Game &amp; Software Developer</b></p>
 
 <p align="center">
-  Bogotá, Colombia &nbsp;·&nbsp; <a href="mailto:jeanmarcosanchezca2@gmail.com">jeanmarcosanchezca2@gmail.com</a>
+  Bogotá, Colombia &nbsp;·&nbsp; <a href="mailto:jeanmarcosanchezca2@gmail.com">jeanmarcosanchezca2@gmail.com</a> &nbsp;·&nbsp; <a href="https://jheansan.github.io"><b>Portfolio</b></a>
 </p>
 
 ### About
@@ -23,6 +23,7 @@ projects rather than courses, and I enjoy picking up new tools and taking on pro
 
 | Project | What it is | Built with |
 |---|---|---|
+| **[SmartCity Bogotá](https://smartcity-gateway.mangomoss-e174bc04.chilecentral.azurecontainerapps.io/SmartCityBogota/?feria=1)** 🏆 | **Best Project at the USB Engineering Festival.** City-data platform with an AI assistant (LLM tool calling on Groq, Whisper voice), a Hadoop pipeline over 1.5M records and a DevSecOps pipeline, deployed on Azure. Built with my team. | Java, Python, SQL, Azure |
 | **[ShrineOfTheGods](https://github.com/JheanSan/ShrineOfTheGods)** | My first Unity game, structured around object-oriented design patterns. Shown at my university's engineering exhibition. | C#, Unity |
 | **[Linkle Companion](https://github.com/JheanSan/linkle-companion)** | An open-source Minecraft mod that adds a dual-crossbow companion who follows you, fights beside you and talks to you. | Java, Fabric |
 
@@ -81,6 +82,8 @@ projects rather than courses, and I enjoy picking up new tools and taking on pro
 ### Contact
 
 <a href="mailto:jeanmarcosanchezca2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://jheansan.github.io"><img src="https://img.shields.io/badge/Portfolio-8E1D1B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/jeanmarcosanchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/JheanSan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91D73,100:1A1A2E&height=90&section=footer" width="100%" alt="" />
